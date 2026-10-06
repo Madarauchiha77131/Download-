@@ -1,0 +1,13 @@
+# Required
+BOT_TOKEN=123456:ABC-your-bot-token
+
+# Optional (defaults are already baked into config.py)
+# OWNER_ID=8200980090
+# CHANNEL_ID=-1002740009398
+# CHANNEL_LINK=https://t.me/+2Fxg6o4jEKAxOGQ1
+# BACKEND_URL=https://fvz.onrender.com
+# BRAND=GX
+# TIMEZONE=Asia/Dhaka
+# MAX_CONCURRENT_JOBS=4
+# DATABASE_PATH=data/bot.db
+# LOG_LEVEL=INFO
